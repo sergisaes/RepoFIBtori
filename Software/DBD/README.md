@@ -6,3 +6,6 @@
 
 
 - [Trainings, sessions i autònoms - Andreu Orensanz](https://github.com/andyfratello/DBD)
+
+
+- [Preguntes Tipu Test Interactives](https://sergisaes.github.io/TestDBDInteractiu/)
